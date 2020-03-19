@@ -89,12 +89,14 @@ main {}
     margin-right: auto;
     text-align: center;
     margin-bottom: 25px;
+    justify-content: center;
 }
 
 .tidspunk-flex {
     display: flex;
     padding-left: 27px;
     padding-bottom: 15px;
+    justify-content: center;
 }
 
 .tidspunkt-p {
@@ -117,6 +119,7 @@ main {}
     padding-left: 37px;
     font-size: 18px;
     margin-top: 10px;
+    text-align: center;
 }
 
 #tast-nr-section {
@@ -128,6 +131,9 @@ main {}
     padding-left: 20px;
     margin-left: 37px;
     margin-top: 10px;
+    display: block;
+    margin: 0 auto;
+    
 }
 
 #tast-nr {}
